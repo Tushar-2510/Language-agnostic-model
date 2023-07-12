@@ -1,0 +1,29 @@
+------------------
+PHP (composer.json) Dependency alert
+------------------
+Update available for php = 
+Update available for ext-dom = 
+Update available for ext-json = 
+Update available for ext-libxml = 
+Update available for ext-mbstring = 
+Update available for ext-xml = 
+Update available for ext-xmlwriter = 
+Update available for myclabs/deep-copy = 1.11.1
+Update available for phar-io/manifest = 2.0.3
+Update available for phar-io/version = 3.2.1
+Update available for phpunit/php-code-coverage = 10.1.2
+Update available for phpunit/php-file-iterator = 4.0.2
+Update available for phpunit/php-invoker = 4.0.0
+Update available for phpunit/php-text-template = 3.0.0
+Update available for phpunit/php-timer = 6.0.0
+Update available for sebastian/cli-parser = 2.0.0
+Update available for sebastian/code-unit = 2.0.0
+Update available for sebastian/comparator = 5.0.0
+Update available for sebastian/diff = 5.0.3
+Update available for sebastian/environment = 6.0.1
+Update available for sebastian/exporter = 5.0.0
+Update available for sebastian/global-state = 6.0.0
+Update available for sebastian/object-enumerator = 5.0.0
+Update available for sebastian/recursion-context = 5.0.0
+Update available for sebastian/type = 4.0.0
+Update available for sebastian/version = 4.0.1
